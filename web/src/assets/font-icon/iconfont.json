@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2783605",
+      "name": "王者荣耀",
+      "font_class": "wangzherongyao",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "7805157",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9111116",
+      "name": "新闻",
+      "font_class": "news",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11301337",
+      "name": "英雄",
+      "font_class": "yingxiong",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    },
+    {
+      "icon_id": "12840506",
+      "name": "菜单",
+      "font_class": "caidan1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
